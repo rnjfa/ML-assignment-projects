@@ -8,7 +8,7 @@ This repository contains a collection of four Machine Learning projects develope
 
 ### 1️⃣ [Fraud Detection with MLP](./Fraud_Detection)
 - **Objective:** Classify financial transactions as fraudulent or legitimate using an MLP classifier.
-- **Dataset:** [Credit Card Transaction Dataset] (https://www.kaggle.com/code/sharmabhilash/credit-card-fraud-detection).
+- **Dataset:** [Credit Card Transaction Dataset](https://www.kaggle.com/code/sharmabhilash/credit-card-fraud-detection).
 - **Techniques Used:**
   - Data Cleaning and Handling Missing Values.
   - Feature Selection using Random Forest Importance (Top 58 features selected).
